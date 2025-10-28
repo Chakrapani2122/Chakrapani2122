@@ -99,7 +99,7 @@ I’m a **Master’s student in Data Analytics at Kansas State University**, pas
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chakrapanigajji/)  
 🔗 [GitHub](https://github.com/Chakrapani2122)  
-🔗 [Portfolio](https://chakrapani-gajji.netlify.app/)  
+🔗 [Portfolio](https://chakrapanigajji.dev)  
 📧 **cgajji@ksu.edu**  
 
 💬 *“Turning data into stories that drive decisions.”* 🚀
