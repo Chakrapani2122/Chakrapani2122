@@ -10,7 +10,7 @@ I’m a **Master’s student in Data Analytics at Kansas State University**, pas
 
 - **M.S. in Data Analytics** *(Aug 2024 – May 2026)*  
   *Kansas State University, Manhattan, KS*  
-  **GPA:** 3.83 / 4.0  
+  **GPA:** 3.87 / 4.0  
 
 - **B.Tech in Computer Science Engineering (AI & ML)** *(Oct 2020 – Apr 2024)*  
   *Sri Indu College of Engineering and Technology, Hyderabad, India*  
