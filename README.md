@@ -1,105 +1,155 @@
-# 👋 Hi there, I'm Chakrapani Gajji  
+<!-- Header Banner with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Chakrapani+Gajji;Data+Analytics+Graduate+%40+K-State;Python+%7C+SQL+%7C+R+%7C+Tableau+%7C+Power+BI;NLP+%7C+Predictive+Modeling+%7C+Data+Governance" alt="Typing SVG" />
+</div>
 
-🎯 **Data Analyst | Machine Learning Enthusiast | BI Developer | Researcher**
+<br/>
 
-I’m a **Master’s student in Data Analytics at Kansas State University**, passionate about transforming complex datasets into clear, actionable insights. My work blends **machine learning, data visualization, and cloud-based analytics**, driving smarter decisions through **data-driven storytelling**.
+<!-- Profile Views + Followers Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chakrapani2122&label=Profile+Views&color=2F80ED&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Chakrapani2122?label=Followers&style=flat-square&color=2F80ED" alt="GitHub Followers" />
+</div>
 
----
-
-## 🎓 Education  
-
-- **M.S. in Data Analytics** *(Aug 2024 – May 2026)*  
-  *Kansas State University, Manhattan, KS*  
-  **GPA:** 3.87 / 4.0  
-
-- **B.Tech in Computer Science Engineering (AI & ML)** *(Oct 2020 – Apr 2024)*  
-  *Sri Indu College of Engineering and Technology, Hyderabad, India*  
-  **GPA:** 3.4 / 4.0  
+<br/>
 
 ---
 
-## 💼 Experience  
+## 👨‍💻 About Me
 
-### 🔹 Graduate Research Assistant — *Kansas State University*  
-*Aug 2024 – Present | Manhattan, KS*  
-- Developed **interactive Streamlit dashboards** for 20+ faculty, providing real-time research insights.  
-- Analyzed **10,000+ agricultural forecasting records**, identifying yield trends that informed key farm decisions.  
-- Managed and validated **50K+ agronomy data points**, ensuring integrity for 10+ ongoing research projects.  
-
-### 🔹 Team Leader — *Business Capstone Project*  
-*Jan 2025 – May 2025 | Kansas State University*  
-- Directed end-to-end project delivery with 3 team members, completing all milestones **on schedule**.  
-- Delivered **10+ strategic insights** via data dashboards, improving client operational efficiency by **15%**.  
-- Presented analytical findings to stakeholders, enhancing communication and accelerating data-driven actions.  
+- 🎓 **M.S. Data Analytics** @ Kansas State University (GPA: 3.89/4.0) — Graduating May 2026
+- 💼 **Research Data Analyst & Data Manager** @ KSU | Ex **Institutional Research Analyst**
+- 📊 Analyzed **50,000+** institutional records | Supported **20+** stakeholders | Achieved **15%** operational efficiency gains
+- 🔬 Passionate about **NLP**, **Predictive Modeling**, **Data Governance**, and **Reproducible Research Pipelines**
+- 🌐 Portfolio: [chakrapani-portfolio.com](https://chakrapanigajji.dev/) | 📧 cgajji@ksu.edu
+- 📍 Manhattan, KS, USA
 
 ---
 
-## 🧠 Projects  
+## 🛠️ Tech Stack & Skills
 
-### 📊 [Food Price Inflation (USA)](https://tinyurl.com/5xd5n8an)  
-*Tableau, Power BI, Python, Storytelling*  
-- Built **6 interactive Tableau dashboards** exploring U.S. inflation trends by region and commodity.  
-- Applied **time-series analysis** to identify seasonal and long-term patterns in market prices.  
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌍 [Earthquake Analysis](https://tinyurl.com/4hu8hzdr)  
-*Tableau, Power BI, Excel, Python*  
-- Designed **geospatial dashboards** analyzing 5,000+ seismic events for disaster planning.  
-- Enhanced **self-service analytics** by 30% through intuitive visualization and drill-down filters.  
+### Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗣️ Survey Response Analysis  
-*Python, NLP, Tableau, Machine Learning*  
-- Processed 5,000+ alumni survey responses using **NLP-based sentiment analysis**.  
-- Created **predictive models** and dashboards to optimize engagement and outreach campaigns.  
+### BI & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 [VividTones – Image Colorization App](https://vividtones.streamlit.app/)  
-*Python, TensorFlow, OpenCV, Streamlit*  
-- Engineered **CNN pipelines** for real-world image restoration, improving efficiency by **25%**.  
-- Deployed GPU-accelerated workflows for medical and archival image colorization.  
-
----
-
-## 🧰 Technical Skills  
-
-**Languages:** Python, SQL, R, C  
-**Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib  
-**Machine Learning:** Regression, Classification, NLP, Forecasting, Predictive Modeling, Model Evaluation  
-**Visualization & BI Tools:** Tableau, Power BI, Streamlit  
-**Platforms & Tools:** Databricks, AWS, Docker, Git, Jupyter, CI/CD Pipelines  
-
----
-
-## 🗣️ Languages  
-
-- English — Professional  
-- Hindi — Fluent  
-- Telugu — Native  
+### Platforms & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🏅 Certifications  
+## 📊 GitHub Stats & KPIs
 
-- **Lean Six Sigma Yellow Belt** – Kansas State University  
-- **Data Analysis with Python** – IBM  
-- **Introduction to Data Science** – Infosys  
-- **SQL Essential Training** – LinkedIn Learning  
-- **Python Object-Oriented Programming** – LinkedIn Learning  
-- **Python Basics** – IBM  
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chakrapani2122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakrapani2122&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Chakrapani2122&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chakrapani2122&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 📝 Publications  
+## 🚀 Featured Projects
 
-📄 **A Survey on Large Language Models: Overview and Applications**  
-*International Research Journal of Engineering and Technology (IRJET), June 2024*  
-[Read Paper](https://www.irjet.net/archives/V11/i6/IRJET-V11I6149.pdf)
+| Project | Description | Tools |
+|---|---|---|
+| 🌽 **[Food Price Inflation (USA)](https://github.com/Chakrapani2122)** | Interactive Tableau dashboards analyzing U.S. food price inflation trends by region & commodity with time-series analysis | Tableau, Python |
+| 🌍 **[EarthQuake Analysis](https://github.com/Chakrapani2122)** | Geospatial dashboards visualizing 5,000+ seismic events for disaster response planning; 30% self-service analytics gain | Tableau, GIS |
+| 🏫 **[Institutional Research: KSU](https://github.com/Chakrapani2122)** | NLP & ML on 5,000+ survey responses; Power BI dashboards; sentiment scoring of 750+ open-ended responses | Python, R, Power BI |
+| 🎨 **[VividTones](https://github.com/Chakrapani2122)** | GPU-accelerated TensorFlow CNN pipeline with CI/CD for 100K+ images; 25% processing efficiency improvement | TensorFlow, Docker, CI/CD |
 
 ---
 
-## 🌐 Connect with Me  
+## 📈 Professional Highlights
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chakrapanigajji/)  
-🔗 [GitHub](https://github.com/Chakrapani2122)  
-🔗 [Portfolio](https://chakrapanigajji.dev)  
-📧 **cgajji@ksu.edu**  
+<div align="center">
 
-💬 *“Turning data into stories that drive decisions.”* 🚀
+| 📌 Metric | 🔢 Value |
+|---|---|
+| Institutional Records Analyzed | 50,000+ |
+| Stakeholders Supported | 20+ |
+| Operational Efficiency Gain | 15% |
+| Research Projects (Python/R) | 10+ |
+| Survey Responses via NLP | 5,000+ |
+| Open-ended Responses Analyzed | 750+ |
+| Power BI Dashboards Delivered | 5 |
+| Recommendations Produced | 12+ |
+| ML Model Accuracy (Email Classifier) | 97% |
+| Model Runtime Reduction | 30% |
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+- 🏆 **Data Analysis with Python** — IBM
+- 📘 **Introduction to Data Science** — Infosys
+- 🗄️ **SQL Essential Training** — LinkedIn Learning
+- ⚙️ **Lean Six Sigma Yellow Belt** — Kansas State University
+- 🐍 **Python: Object-Oriented Programming** — LinkedIn Learning
+
+---
+
+## 📝 Publications
+
+📄 **A Survey on Large Language Models: Overview and Applications**
+*International Research Journal of Engineering and Technology (IRJET), Jun 2024*
+> Reviewed transformer architectures and LLM workflows, including a practical guide to domain-specific model usage with open-source frameworks (e.g., Llama 2).
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chakrapanigajji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chakrapanigajji)
+[![GitHub](https://img.shields.io/badge/GitHub-Chakrapani2122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chakrapani2122)
+[![Email](https://img.shields.io/badge/Email-cgajji@ksu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgajji@ksu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2F80ED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=100&section=footer" />
+</div>
