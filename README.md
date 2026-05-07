@@ -1,108 +1,105 @@
-<div align="center">
+# 👋 Hi there, I'm Chakrapani Gajji  
 
-# Chakrapani Gajji
+🎯 **Data Analyst | Machine Learning Enthusiast | BI Developer | Researcher**
 
-**Research Data Analyst & Data Manager · Kansas State University**
+I’m a **Master’s student in Data Analytics at Kansas State University**, passionate about transforming complex datasets into clear, actionable insights. My work blends **machine learning, data visualization, and cloud-based analytics**, driving smarter decisions through **data-driven storytelling**.
 
-M.S. Data Analytics · GPA 3.89 / 4.0 · Graduating May 2026 · Open to Full-Time Data Analyst Roles
+---
 
-[&nbsp;
-[&nbsp;
-[&nbsp;
-[&nbsp;
-[
+## 🎓 Education  
 
-<img src="https://komarev.com/ghpvc/?username=Chakrapani2122&label=Profile+Views&color=2F80ED&style=flat-square"/>
+- **M.S. in Data Analytics** *(Aug 2024 – May 2026)*  
+  *Kansas State University, Manhattan, KS*  
+  **GPA:** 3.87 / 4.0  
 
-</div>
+- **B.Tech in Computer Science Engineering (AI & ML)** *(Oct 2020 – Apr 2024)*  
+  *Sri Indu College of Engineering and Technology, Hyderabad, India*  
+  **GPA:** 3.4 / 4.0  
 
-***
+---
 
-## About
+## 💼 Experience  
 
-I'm a data professional at Kansas State University focused on turning raw data into reliable decisions. I build end-to-end pipelines, apply NLP and predictive modeling to real research problems, and create dashboards that communicate insights clearly. I've analyzed 50,000+ records and achieved 15% efficiency gains through automation and process improvement.
+### 🔹 Graduate Research Assistant — *Kansas State University*  
+*Aug 2024 – Present | Manhattan, KS*  
+- Developed **interactive Streamlit dashboards** for 20+ faculty, providing real-time research insights.  
+- Analyzed **10,000+ agricultural forecasting records**, identifying yield trends that informed key farm decisions.  
+- Managed and validated **50K+ agronomy data points**, ensuring integrity for 10+ ongoing research projects.  
 
-📍 Manhattan, KS &nbsp;|&nbsp; 📞 (785) 317-5938 &nbsp;|&nbsp; 🌐 [chakrapanigajji.dev](https://chakrapanigajji.dev)
+### 🔹 Team Leader — *Business Capstone Project*  
+*Jan 2025 – May 2025 | Kansas State University*  
+- Directed end-to-end project delivery with 3 team members, completing all milestones **on schedule**.  
+- Delivered **10+ strategic insights** via data dashboards, improving client operational efficiency by **15%**.  
+- Presented analytical findings to stakeholders, enhancing communication and accelerating data-driven actions.  
 
-***
+---
 
-## Skills
+## 🧠 Projects  
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python · SQL · R |
-| **Visualization** | Tableau · Power BI |
-| **ML & NLP** | Scikit-learn · NLTK · Predictive Modeling |
-| **Databases** | MySQL · PostgreSQL · SQL Server |
-| **Other** | Git · Excel · Data Governance · ERP Systems |
+### 📊 [Food Price Inflation (USA)](https://tinyurl.com/5xd5n8an)  
+*Tableau, Power BI, Python, Storytelling*  
+- Built **6 interactive Tableau dashboards** exploring U.S. inflation trends by region and commodity.  
+- Applied **time-series analysis** to identify seasonal and long-term patterns in market prices.  
 
-***
+### 🌍 [Earthquake Analysis](https://tinyurl.com/4hu8hzdr)  
+*Tableau, Power BI, Excel, Python*  
+- Designed **geospatial dashboards** analyzing 5,000+ seismic events for disaster planning.  
+- Enhanced **self-service analytics** by 30% through intuitive visualization and drill-down filters.  
 
-## Experience
+### 🗣️ Survey Response Analysis  
+*Python, NLP, Tableau, Machine Learning*  
+- Processed 5,000+ alumni survey responses using **NLP-based sentiment analysis**.  
+- Created **predictive models** and dashboards to optimize engagement and outreach campaigns.  
 
-**Research Data Analyst & Data Manager** — Kansas State University · *2024 – Present*
-- Analyzed 50,000+ institutional records supporting academic research and compliance reporting
-- Built Power BI and Tableau dashboards used by university leadership for data-driven decisions
-- Developed NLP pipelines and predictive models for structured and unstructured research data
-- Automated reporting workflows, reducing manual effort by 15%
+### 🎨 [VividTones – Image Colorization App](https://vividtones.streamlit.app/)  
+*Python, TensorFlow, OpenCV, Streamlit*  
+- Engineered **CNN pipelines** for real-world image restoration, improving efficiency by **25%**.  
+- Deployed GPU-accelerated workflows for medical and archival image colorization.  
 
-***
+---
 
-## Education
+## 🧰 Technical Skills  
 
-**M.S. Data Analytics** — Kansas State University · GPA 3.89 / 4.0 · *May 2026*
+**Languages:** Python, SQL, R, C  
+**Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, OpenCV, Seaborn, Matplotlib  
+**Machine Learning:** Regression, Classification, NLP, Forecasting, Predictive Modeling, Model Evaluation  
+**Visualization & BI Tools:** Tableau, Power BI, Streamlit  
+**Platforms & Tools:** Databricks, AWS, Docker, Git, Jupyter, CI/CD Pipelines  
 
-**B.Tech, Computer Science & Engineering** — Sree Vidyanikethan Engineering College · *2023*
+---
 
-***
+## 🗣️ Languages  
 
-## Publication
+- English — Professional  
+- Hindi — Fluent  
+- Telugu — Native  
 
-📄 **[A Survey on Large Language Models: Overview and Applications](https://www.irjet.net/archives/V11/i6/IRJET-V11I6149.pdf)**
-*International Research Journal of Engineering and Technology (IRJET) · Vol. 11, Issue 6 · June 2024*
+---
 
-A comprehensive survey covering transformer architecture, fine-tuning strategies, prompt engineering, and real-world deployment of LLMs including Llama 2.
+## 🏅 Certifications  
 
-***
+- **Lean Six Sigma Yellow Belt** – Kansas State University  
+- **Data Analysis with Python** – IBM  
+- **Introduction to Data Science** – Infosys  
+- **SQL Essential Training** – LinkedIn Learning  
+- **Python Object-Oriented Programming** – LinkedIn Learning  
+- **Python Basics** – IBM  
 
-## Certifications
+---
 
-| # | Certification | Issuer |
-|---|---|---|
-| 1 | Google Data Analytics | Google / Coursera |
-| 2 | Microsoft Power BI Data Analyst | Microsoft |
-| 3 | AWS Cloud Foundations | Amazon Web Services |
-| 4 | Excel Skills for Data Analytics | Macquarie University |
-| 5 | Intro to Data Science | Cisco |
-| 6 | Python for Data Science | IBM |
-| 7 | Databases and SQL for Data Science | IBM |
-| 8 | Data Analysis with Python | IBM |
-| 9 | Data Visualization with Python | IBM |
-| 10 | AI Fundamentals | Simplilearn |
-| 11 | Programming in Python | NPTEL / IIT |
-| 12 | The Hour of Code | HackerRank |
+## 📝 Publications  
 
-***
+📄 **A Survey on Large Language Models: Overview and Applications**  
+*International Research Journal of Engineering and Technology (IRJET), June 2024*  
+[Read Paper](https://www.irjet.net/archives/V11/i6/IRJET-V11I6149.pdf)
 
-## GitHub Stats
+---
 
-<div align="center">
+## 🌐 Connect with Me  
 
-&nbsp;
+🔗 [LinkedIn](https://www.linkedin.com/in/chakrapanigajji/)  
+🔗 [GitHub](https://github.com/Chakrapani2122)  
+🔗 [Portfolio](https://chakrapanigajji.dev)  
+📧 **cgajji@ksu.edu**  
 
-
-</div>
-
-***
-
-<div align="center">
-
-*Open to full-time Data Analyst roles · I reply within 24 hours.*
-
-[&nbsp;
-[&nbsp;
-[
-
-<sub>📍 Manhattan, KS 66502 · <a href="https://chakrapanigajji.dev">chakrapanigajji.dev</a></sub>
-
-</div>
+💬 *“Turning data into stories that drive decisions.”* 🚀
