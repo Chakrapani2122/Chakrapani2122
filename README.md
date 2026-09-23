@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst | Machine Learning Enthusiast | BI Developer | Researcher**
 
-I’m a **Master’s student in Data Analytics at Kansas State University**, passionate about transforming complex datasets into clear, actionable insights. My work blends **machine learning, data visualization, and cloud-based analytics**, driving smarter decisions through **data-driven storytelling**.
+I’m a **Data Analyst at Texas A&M University - Corpus Christi**, passionate about transforming complex datasets into clear, actionable insights. My work blends **machine learning, data visualization, and cloud-based analytics**, driving smarter decisions through **data-driven storytelling**.
 
 ---
 
@@ -20,8 +20,14 @@ I’m a **Master’s student in Data Analytics at Kansas State University**, pas
 
 ## 💼 Experience  
 
+### 🔹 Data Analyst — *Texas A&M University - Corpus Christi*  
+*July 2026 – Present | Corpus Christi, TX*  
+- Leveraged Salesforce and Oracle Database for data analytics, standardization, cleaning, and visualization, ensuring accurate and consistent data across business processes.
+- Collaborated with multiple departments in a higher education environment to understand business requirements, streamline data workflows, and ensure reliable end-to-end data flow.
+- Developed and maintained reports and data visualizations, validating data accuracy and transforming complex datasets into actionable insights for institutional decision-making.
+
 ### 🔹 Graduate Research Assistant — *Kansas State University*  
-*Aug 2024 – Present | Manhattan, KS*  
+*Aug 2024 – May 2026 | Manhattan, KS*  
 - Developed **interactive Streamlit dashboards** for 20+ faculty, providing real-time research insights.  
 - Analyzed **10,000+ agricultural forecasting records**, identifying yield trends that informed key farm decisions.  
 - Managed and validated **50K+ agronomy data points**, ensuring integrity for 10+ ongoing research projects.  
@@ -100,6 +106,6 @@ I’m a **Master’s student in Data Analytics at Kansas State University**, pas
 🔗 [LinkedIn](https://www.linkedin.com/in/chakrapanigajji/)  
 🔗 [GitHub](https://github.com/Chakrapani2122)  
 🔗 [Portfolio](https://chakrapanigajji.dev)  
-📧 **cgajji@ksu.edu**  
+📧 **chakrapani.g99@gamil.com.edu**  
 
 💬 *“Turning data into stories that drive decisions.”* 🚀
